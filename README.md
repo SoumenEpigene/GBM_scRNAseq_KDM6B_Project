@@ -180,7 +180,5 @@ Attempted reproduction of key figures from:
 ## Author
 
 **Soumen Manna**
-
-PhD Candidate
-
-Computational Biology | Epigenetics | Cancer Biology
+PhD
+Epigenetics | Cancer Biology
